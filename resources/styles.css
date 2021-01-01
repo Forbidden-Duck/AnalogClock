@@ -1,0 +1,19 @@
+.background {
+  fill: white;
+}
+
+.hours {
+  font-size: 30;
+  font-family: Seville-Regular;
+  text-length: 32;
+  text-anchor: start;
+  fill: white;
+}
+
+#battery {
+  font-size: 15;
+  font-family: Seville-Regular;
+  text-length: 32;
+  text-anchor: start;
+  fill: white;
+}
